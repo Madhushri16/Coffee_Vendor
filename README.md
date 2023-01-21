@@ -10,11 +10,11 @@ For access this system, you have to download zip file and extract it!.
 
 Either, you have to download in terminal using git clone
 
+        
+          git clone https://github.com/Madhushri16/Coffee_Vendor.git
+   
+          cd Coffee_Vendor
 
-
-
-
-
-
+          python coffe_vendor
 
 By using this method you can use this system.
